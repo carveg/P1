@@ -1,0 +1,4 @@
+iniciamos maven y partimos de un proyecto que use el arquetivo pedido.
+Desde la linea de comandos creamos el arquetipo con el codigo de las diapositivas y ponemos mvn install para ver
+que esta correcto.
+Hacemos lo mismo con primer_parcial_jar y comprobamos la estrucutra de carpetas
